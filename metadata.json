@@ -1,0 +1,6 @@
+{
+  "name": "EmpowerHer: Street Boundary Rehearsal",
+  "description": "An interactive 2D street boundary rehearsal game designed specifically to mentally prepare women for street harassment, practice active verbal self-defense, and build spatial safety awareness.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
